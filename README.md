@@ -33,6 +33,7 @@
 - [Email Me](mailto:boluwatifeda45@gmail.com)
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Did you know that if you remove all the space in an atom the entire human race would fit inside a sugar cube.
+- 
 **Octopuses have three hearts!** 🐙  
 Two hearts pump blood to the gills, and the third heart pumps it to the rest of the body. But here’s the twist: when an octopus swims, the heart pumping blood to the body stops! This is why they prefer crawling over swimming—it’s less exhausting!
 
