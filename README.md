@@ -17,7 +17,6 @@
 - **Tools**: Figma, Git, VS Code.
 - **More**: Exploring cloud technologies and DevOps workflows.
 
-- 
 - 👀 I’m interested in ...
 - 🌐 Web Development: Building responsive, interactive, visually appealing web applications.
 🧠 Artificial Intelligence: Exploring machine learning, NLP, and how AI can improve user experiences.
@@ -29,11 +28,12 @@
 
 - 🌱 I’m currently learning ... React so far We've learned how to use React hooks such as useState, useMemo, useCallback, useRef, etc. We also learned about React Router which enables users to navigate within a website unlike the traditional navbar navigation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... you can reach me on [Linkedin](https://www.linkedin.com/in/boluwatife-david-640089309/).
+- 📫 How to reach me ... you can reach me on [Linkedin](https://www.linkedin.com/in/boluwatife-david-640089309/) or.
 - [Email Me](mailto:boluwatifeda45@gmail.com)
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Did you know that if you remove all the space in an atom the entire human race would fit inside a sugar cube.
-- 
+
+Here's another fun fact
 **Octopuses have three hearts!** 🐙  
 Two hearts pump blood to the gills, and the third heart pumps it to the rest of the body. But here’s the twist: when an octopus swims, the heart pumping blood to the body stops! This is why they prefer crawling over swimming—it’s less exhausting!
 
